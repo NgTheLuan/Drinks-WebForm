@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbdrinksConnectionString-Web.config Connection String" description="dbdrinksConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=den1.mssql8.gear.host;Initial Catalog=dbdrinks;Persist Security Info=True;User ID=dbdrinks;Password=Yn2EO0d~s?IZ" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\DeadLine\\Drinks_WebForm\\Drinks_WebForm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbdrinksConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
